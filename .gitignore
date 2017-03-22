@@ -1,0 +1,17 @@
+#####################
+#Unreal ignore files#
+#####################
+
+*/Build
+*/Binaries
+*/DeriveddataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+
+#####################
+# VS ignore files   #
+#####################
+
+*.sdf
+
